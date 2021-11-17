@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">salem</string>
+    <string name="facebook_app_id">4644439898947756</string>
+    <string name="fb_login_protocol_scheme">fb4644439898947756</string>
+</resources>
